@@ -2,7 +2,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
-h1, h2, h5 {
+h1{
+    color: #dedad9;
+}
+h2, h5 {
     color: #333;
 }
 
